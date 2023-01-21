@@ -1,11 +1,11 @@
-<<<<<<< HEAD
-main branch 수정함
-second commit
-branch 연습
-=======
-coupon branch 수정
+수정
 second commit
 third commit
 commit
 git diff
->>>>>>> coupon
+clone으로 github에서 가져오기 
+왜 안됨
+왜 안됨!!!!!!!!!!
+왜
+
+
