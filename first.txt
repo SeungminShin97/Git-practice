@@ -1,2 +1,3 @@
-first commit
+main branch 수정함
 second commit
+branch 연습
