@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 main branch 수정함
 second commit
 branch 연습
+=======
+coupon branch 수정
+second commit
+third commit
+commit
+git diff
+>>>>>>> coupon
